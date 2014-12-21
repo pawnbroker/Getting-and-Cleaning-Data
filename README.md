@@ -2,7 +2,7 @@
 =========================
 ###Introduction
 
-This repository includes my work for the course project of the "Getting and Cleaning Data" course, one of  the Data Science’s track courses, in coursera. 
+This repository includes my work for the course project of "Getting and Cleaning Data", one of  the Data Science’s track courses, in coursera. 
 
 Besides this README.md file (describing how the script works), the repository contains a R code file "run_analysis.R" (a code book  in the main directory that can be run as long as the Samsung data is in your working directory),  a tidy dataset "results.txt" and a code book "CodeBook.md" describing the variables. 
 
