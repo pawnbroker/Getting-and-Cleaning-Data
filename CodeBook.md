@@ -4,7 +4,6 @@
 The training (test) dataset includes the following files: 
 -"X_train.txt" ("X_test.txt"): Each row represents a 561-feature vector with time and frequency domain variables for a single measurement    
 -"y_train.txt" ("y_test.txt"): Each row identifies the class label of different activity. Its ranges is from 1 to 6.        
-
 -"subject_train.txt" ("subject_test.txt"): Each row identifies the subject who performed the activity for each window sample. 
 Its range is from 1 to 30. 
 
