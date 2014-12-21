@@ -1,3 +1,7 @@
+# R version 3.1.1 (2014-07-10) -- "Sock it to Me"
+#Copyright (C) 2014 The R Foundation for Statistical Computing
+#Platform: x86_64-apple-darwin13.1.0 (64-bit)
+
 library(plyr)
 
 ########################################### step 1 ###########################################
