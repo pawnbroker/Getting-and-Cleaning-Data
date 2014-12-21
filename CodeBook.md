@@ -7,7 +7,7 @@ The training (test) dataset includes the following files:
 -"subject_train.txt" ("subject_test.txt"): Each row identifies the subject who performed the activity for each window sample. 
 Its range is from 1 to 30. 
 
-The following files are also used in the R script: 
+The following files are also used in the R script:
 -"features.txt": List of all 561 features.    
 -"activity_labels.txt": Links the class labels from 1 to 6  with their activity name.                                         
 
