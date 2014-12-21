@@ -2,14 +2,14 @@
 
 ### Raw data used in the R script 
 The training (test) dataset includes the following files: 
-"X_train.txt" ("X_test.txt"): Each row represents a 561-feature vector with time and frequency domain variables for a single measurement
-"y_train.txt" ("y_test.txt"): Each row identifies the class label of different activity. Its ranges is from 1 to 6. 
-"subject_train.txt" ("subject_test.txt"): Each row identifies the subject who performed the activity for each window sample. 
+-"X_train.txt" ("X_test.txt"): Each row represents a 561-feature vector with time and frequency domain variables for a single measurement
+-"y_train.txt" ("y_test.txt"): Each row identifies the class label of different activity. Its ranges is from 1 to 6. 
+-"subject_train.txt" ("subject_test.txt"): Each row identifies the subject who performed the activity for each window sample. 
 Its range is from 1 to 30. 
 
 The following files are also used in the R script: 
-"features.txt": List of all 561 features.
-"activity_labels.txt": Links the class labels from 1 to 6  with their activity name.
+-"features.txt": List of all 561 features.
+-"activity_labels.txt": Links the class labels from 1 to 6  with their activity name.
 
 ### What does the R script do
 1. Merges the training and the test sets to create one data set. For example, it merges variables X_train and X_test to X_data.
