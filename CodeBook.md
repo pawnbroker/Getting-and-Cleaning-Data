@@ -10,7 +10,6 @@ Its range is from 1 to 30.
 The following files are also used in the R script: 
 
 -"features.txt": List of all 561 features.    
-
 -"activity_labels.txt": Links the class labels from 1 to 6  with their activity name.                                         
 
 ### What does the R script do
