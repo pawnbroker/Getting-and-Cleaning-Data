@@ -51,7 +51,7 @@ all_data <- cbind(X_data, y_data, subject_data) # bind all data into a single se
 ### From all_data, creates a second, independent tidy data set with the average of each 
 ### variable for each activity and each subject.
 
-#average each activity (6) and each subject (30), create a 181*66 data set (the first row is  names)
+#average each activity (6) and each subject (30), create a 181*68 data set (the first row is  names)
 averages_data <- ddply(all_data, .(subject, activity), function(x) colMeans(x[, 1:66]))
 
 # Create the "results.txt" with write.table() using row.name=FALSE
