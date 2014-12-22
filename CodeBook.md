@@ -23,4 +23,4 @@ The following files are also used in the R script:
 set with the average of each variable for each activity and each subject.  And finally, the txt file "results.txt" is created with write.table() using row.name=FALSE
 
 ### Tidy data
-The final tidy data contain 181 rows (30 volunteers, 6 activities with names) and 66 columns. 
+The final tidy data contain 181 rows (30 volunteers, 6 activities with names) and 68 columns. 
